@@ -1,15 +1,3 @@
-diff --git a/sources/PseudoTerminal.m b/sources/PseudoTerminal.m
-index f6868f3..99cded2 100644
---- a/sources/PseudoTerminal.m
-+++ b/sources/PseudoTerminal.m
-@@ -354,7 +354,6 @@ static NSString* TERMINAL_ARRANGEMENT_HIDING_TOOLBELT_SHOULD_RESIZE_WINDOW = @"H
- 
-         default:
-             return (mask |
--                    NSTitledWindowMask |
-                     NSClosableWindowMask |
-                     NSMiniaturizableWindowMask |
-                     NSResizableWindowMask |
 diff --git a/sources/iTermTextDrawingHelper.h b/sources/iTermTextDrawingHelper.h
 index e6ab4c6..bde883d 100644
 --- a/sources/iTermTextDrawingHelper.h
