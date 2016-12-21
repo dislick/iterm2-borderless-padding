@@ -1,6 +1,6 @@
 # iterm2-padding
 
-This repo contains the patch file used to ~remove~keep borders and add padding to iTerm2.
+This repo contains the patch file used to ~~remove~~ keep borders and add padding to iTerm2.
 
 ![iterm2-borderless-padding](http://i.imgur.com/QsMVfNq.png)
 
